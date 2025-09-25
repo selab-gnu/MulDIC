@@ -36,7 +36,7 @@ Software issue classification is critical for effective project management and b
 
 ### Zenedo
 - Note (25 Sep): The dataset is currently being prepared for upload.
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17194028.svg)](https://doi.org/10.5281/zenodo.17194028)
 
 ## 🏗️ Architecture
 
